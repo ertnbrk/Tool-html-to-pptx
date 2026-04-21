@@ -10,7 +10,7 @@ node_modules/
 
 output/
 temp/
-html/
+
 # Logs
 
 *.log
